@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+# hexo
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+# Editor
+.history/
