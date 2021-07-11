@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>https://blog.shu.moe/icon.png</icon>
+  
+  <link href="https://blog.shu.moe/atom.xml" rel="self"/>
+  
+  <link href="https://blog.shu.moe/"/>
+  <updated>2021-07-11T01:26:25.161Z</updated>
+  <id>https://blog.shu.moe/</id>
+  
+  <author>
+    <name>Liang yue</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端性能专题</title>
+    <link href="https://blog.shu.moe/2021/07/11/front-end-performance-topic/"/>
+    <id>https://blog.shu.moe/2021/07/11/front-end-performance-topic/</id>
+    <published>2021-07-11T01:24:20.000Z</published>
+    <updated>2021-07-11T01:26:25.161Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;整理一下听过见过的性能问题。我的前端世界本来没多少性能问题，直到交流的多了，才知道原来可以有以下这么多的问题。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>happy-js</title>
+    <link href="https://blog.shu.moe/2021/07/11/happy-js/"/>
+    <id>https://blog.shu.moe/2021/07/11/happy-js/</id>
+    <published>2021-07-11T01:21:07.000Z</published>
+    <updated>2021-07-11T01:22:04.376Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;作为一个成熟的 JavaScript 工具人，应该学会面对超出预期的现象，理解产生麻烦的原因，整理合理不合情的情况，在反馈和反思中修改完善。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="JavaScript" scheme="https://blog.shu.moe/tags/JavaScript/"/>
+    
+  </entry>
+  
+</feed>
